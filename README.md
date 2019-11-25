@@ -1,0 +1,2 @@
+# mandala
+Simple SMTP client
